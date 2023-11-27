@@ -14,4 +14,6 @@ print(name,"age is",age)
 # How to take the input from the user
 
 name1 = input("what is your name1?")
+# Note -: And whatever inputs we give they come in string format
+
 print(name1)
